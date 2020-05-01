@@ -2,7 +2,13 @@
 title: "Milestone Report"
 author: "Nick Orka"
 date: "4/29/2020"
-output: html_document
+output: 
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: cosmo
+    keep_md: no
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
