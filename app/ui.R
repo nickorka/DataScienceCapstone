@@ -62,7 +62,7 @@ shinyUI(
                             on GitHub:",
                             br(),
                             br(),
-                            img(src = "github.png"),
+                            img(src = "http://pngimg.com/uploads/github/github_PNG40.png", height="50px", width="50px" ),
                             a(target = "_blank", href = "https://github.com/nickorka/DataScienceCapstone/tree/master/app/",
                             "Next Word Predict"))
                )

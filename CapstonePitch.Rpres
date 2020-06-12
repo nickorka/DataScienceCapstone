@@ -23,7 +23,7 @@ algorithm.
 The Next Word Predict app is located at:
 
 <ul>
-    <li><a target="_blank" href=""></a></li>
+    <li><a target="_blank" href="https://nickorka.shinyapps.io/NextWordPredict/">https://nickorka.shinyapps.io/NextWordPredict/</a></li>
 </ul>
 
 The source code files can be found on GitHub:
